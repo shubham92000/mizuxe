@@ -9,6 +9,11 @@ body {
     font-size: 1.4rem;
     padding-right: 1.4rem; }
 
+.info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 1px #ddd solid; }
+
 #showcase {
   position: relative;
   background: url("../img/mountains.jpg");
